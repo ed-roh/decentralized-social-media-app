@@ -90,9 +90,9 @@ function App() {
               fontSize="44px"
               fontStyle="italic"
             >
-              DECENTRA
+              Yarn
             </Box>
-            <Box> Decentralized Social Media App</Box>
+            <Box> Yarn your mind!!!</Box>
           </Box>
           {account ? (
             <Box backgroundColor="#000" padding="15px" borderRadius="6px">
